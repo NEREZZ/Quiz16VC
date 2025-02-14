@@ -1,2 +1,1 @@
-# Quiz16VC
-quiz created to the programing test
+QUIZ OF 16VC
